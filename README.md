@@ -20,9 +20,9 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 
 ## Projects:
 
-* **Credit Card Fraud Identification with Logistic Regression:** bit.ly/39Fqb7m
-* **Credit Card Default Prediction - Logistic Regression / Decision Tree:** bit.ly/2vDveXp
-* **Airbnb Data Analysis and Listing Price Prediction With XGBoost:** bit.ly/2SyBTuT
+* **Credit Card Fraud Identification with Logistic Regression:**  http://bit.ly/39Fqb7m
+* **Credit Card Default Prediction - Logistic Regression / Decision Tree:**  http://bit.ly/2vDveXp
+* **Airbnb Data Analysis and Listing Price Prediction With XGBoost:**  http://bit.ly/2SyBTuT
 * **Kaggle House Price Prediction - XGBoost:** http://bit.ly/37DalIS
 * **NBB Data Analysis and Data Science Project Proposal:** http://bit.ly/3bQOhOD
 * **Heart Disease Identification with XGBoost:** http://bit.ly/2SBOsWr
