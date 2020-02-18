@@ -4,8 +4,7 @@
   <img src="rafaelnd_ds.png" >
 </p>
 
-# Rafael Duarte
-<sub>*Data Scientist and collaborator at Sigmoidal for Data Science</sub>
+## Data Scientist and collaborator at Sigmoidal for Data Science
 
 Goal and detail-oriented, thorough and determined. I'm a highly motivated, responsible and reliable
 professional, eager to learn and help through hard work. Experienced with working under pressure, 
