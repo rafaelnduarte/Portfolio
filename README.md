@@ -24,7 +24,8 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 * **Credit Card Default Prediction - Logistic Regression / Decision Tree:**  http://bit.ly/2vDveXp
 * **Airbnb Data Analysis and Listing Price Prediction With XGBoost:**  http://bit.ly/2SyBTuT
 * **Kaggle House Price Prediction - XGBoost:** http://bit.ly/37DalIS
-* **NBB Data Analysis and Data Science Project Proposal:** http://bit.ly/3bQOhOD
+* **NBB Data Analysis and Data Science Project Proposal (PT-BR):** http://bit.ly/3bQOhOD
+* **Turnover Reduction with Machine Learning - HR (PT-BR):** http://bit.ly/2SOdmAU
 * **Heart Disease Identification with XGBoost:** http://bit.ly/2SBOsWr
 * **Kaggle - Titanic: Machine Learning From Disaster With Logistic Regression and Decision Tree:** http://bit.ly/322LVaJ
 
