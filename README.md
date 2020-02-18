@@ -4,7 +4,7 @@
   <img src="rafaelnd_ds.png" >
 </p>
 
-## Data Scientist and collaborator at Sigmoidal for Data Science
+## Data Scientist and Collaborator at Sigmoidal for Data Science
 
 Goal and detail-oriented, thorough and determined. I'm a highly motivated, responsible and reliable
 professional, eager to learn and help through hard work. Experienced with working under pressure, 
@@ -20,13 +20,13 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 
 ## Projects:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Credit Card Fraud Identification with Logistic Regression:** bit.ly/39Fqb7m
+* **Credit Card Default Prediction - Logistic Regression / Decision Tree:** bit.ly/2vDveXp
+* **Airbnb Data Analysis and Listing Price Prediction With XGBoost:** bit.ly/2SyBTuT
+* **Kaggle House Price Prediction - XGBoost:** http://bit.ly/37DalIS
+* **NBB Data Analysis and Data Science Project Proposal:** http://bit.ly/3bQOhOD
+* **Heart Disease Identification with XGBoost:** http://bit.ly/2SBOsWr
+* **Kaggle - Titanic: Machine Learning From Disaster With Logistic Regression and Decision Tree:** http://bit.ly/322LVaJ
 
 ---
 
