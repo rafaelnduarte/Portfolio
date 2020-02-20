@@ -22,6 +22,7 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 
 * **Credit Card Fraud Identification with Logistic Regression:**  http://bit.ly/39Fqb7m
 * **Credit Card Default Prediction - Logistic Regression / Decision Tree:**  http://bit.ly/2vDveXp
+* **K-Means Clustering Using Spotify Data:**  http://bit.ly/2T0crxq
 * **Airbnb Data Analysis and Listing Price Prediction With XGBoost:**  http://bit.ly/2SyBTuT
 * **Kaggle House Price Prediction - XGBoost:** http://bit.ly/37DalIS
 * **NBB Data Analysis and Data Science Project Proposal (PT-BR):** http://bit.ly/3bQOhOD
