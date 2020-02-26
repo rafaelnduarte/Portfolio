@@ -4,7 +4,7 @@
   <img src="rafaelnd_ds.png" >
 </p>
 
-## Data Scientist and Collaborator at Sigmoidal for Data Science
+## Data Scientist and Collaborator at Sigmoidal.ai
 
 As a Data Scientist, I’m constantly looking for new challenges. Working at Sigmoidal.ai has helped me have
 an efficient, analytical and consistent approach to Data Science Projects. I’m always looking forward to
