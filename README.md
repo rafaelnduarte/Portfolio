@@ -6,8 +6,10 @@
 
 ## Data Scientist and Collaborator at Sigmoidal for Data Science
 
-Goal and detail-oriented, thorough and determined. I'm a highly motivated, responsible and reliable
-professional, eager to learn and help through hard work. Experienced with working under pressure, 
+As a Data Scientist, I’m constantly looking for new challenges. Working at Sigmoidal.ai has helped me have
+an efficient, analytical and consistent approach to Data Science Projects. I’m always looking forward to
+finding and overcoming my weaknesses, not being afraid to make mistakes or recognize my limitations. I
+see them as opportunities to improve as a professional. Experienced with working under pressure, 
 comfortable with learning on-the-go, always ready to find and overcome new obstacles.  
 
 
