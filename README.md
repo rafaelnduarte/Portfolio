@@ -16,6 +16,7 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
 * [Medium](https://medium.com/@rafaelnduarte)
+* [Sigmoidal.ai](https://sigmoidal.ai/)
 
 
 ## Projects:
@@ -26,6 +27,7 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 * **Airbnb Data Analysis and Listing Price Prediction With XGBoost:**  http://bit.ly/2SyBTuT
 * **Kaggle House Price Prediction - XGBoost:** http://bit.ly/37DalIS
 * **NBB Data Analysis and Data Science Project Proposal (PT-BR):** http://bit.ly/3bQOhOD
+* **Turnover Reduction with Machine Learning - HR (EN):** http://bit.ly/3caYK7t
 * **Turnover Reduction with Machine Learning - HR (PT-BR):** http://bit.ly/2SOdmAU
 * **Heart Disease Identification with XGBoost:** http://bit.ly/2SBOsWr
 * **Kaggle - Titanic: Machine Learning From Disaster With Logistic Regression and Decision Tree:** http://bit.ly/322LVaJ
