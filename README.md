@@ -23,6 +23,9 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 
 ## Projects:
 
+* **Sales Forecast With Prophet:** https://bit.ly/2wHiD6l
+* **RFM Customer Segmentation With K-Means:** https://bit.ly/2RFTWi2
+* **Understanding Your Customers With NLP:** https://bit.ly/2XE4emg
 * **Credit Card Fraud Identification with Logistic Regression:**  http://bit.ly/39Fqb7m
 * **Credit Card Default Prediction - Logistic Regression / Decision Tree:**  http://bit.ly/2vDveXp
 * **K-Means Clustering Using Spotify Data:**  http://bit.ly/2T0crxq
