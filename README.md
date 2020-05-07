@@ -23,6 +23,7 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 
 ## Projects:
 
+* **Image Classification using Convolutional Neural Networks:** https://bit.ly/3cdckqJ
 * **Sales Forecast With Prophet:** https://bit.ly/2wHiD6l
 * **RFM Customer Segmentation With K-Means:** https://bit.ly/2RFTWi2
 * **Understanding Your Customers With NLP:** https://bit.ly/2XE4emg
