@@ -36,6 +36,7 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 * **Turnover Reduction with Machine Learning - HR (EN):** http://bit.ly/3caYK7t
 * **Turnover Reduction with Machine Learning - HR (PT-BR):** http://bit.ly/2SOdmAU
 * **Heart Disease Identification with XGBoost:** http://bit.ly/2SBOsWr
+* **Twitter Sentiment Analysis:** https://bit.ly/2XaRpie
 * **Kaggle - Titanic: Machine Learning From Disaster With Logistic Regression and Decision Tree:** http://bit.ly/322LVaJ
 
 ---
