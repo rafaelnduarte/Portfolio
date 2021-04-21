@@ -39,8 +39,6 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
  
 * **[Airbnb Data Analysis and Listing Price Prediction With XGBoost](http://bit.ly/2SyBTuT)**
  
-* **[Kaggle House Price Prediction - XGBoost](http://bit.ly/37DalIS)**
- 
 * **[NBB Data Analysis and Data Science Project Proposal (PT-BR)](http://bit.ly/3bQOhOD)**
  
 * **[Turnover Reduction with Machine Learning - HR (EN)](http://bit.ly/3caYK7t)**
@@ -49,6 +47,6 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
  
 * **[Twitter Sentiment Analysis](https://bit.ly/2XaRpie)**
  
-* **[Kaggle - Titanic: Machine Learning From Disaster With Logistic Regression and Decision Tree](http://bit.ly/322LVaJ)**
+* **[Kaggle House Price Prediction - XGBoost](http://bit.ly/37DalIS)**
 ---
 
