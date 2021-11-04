@@ -20,6 +20,12 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 
 
 ## Projects:
+Banking and Finances
+
+* **[Credit Card Fraud Identification with Logistic Regression](http://bit.ly/39Fqb7m)**
+ 
+* **[Credit Card Default Prediction](https://github.com/rafaelnduarte/Credit_Card_Default_Prediction)**
+
 
 Business
 * **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
@@ -40,12 +46,8 @@ Business
  
 * **[Kaggle House Price Prediction - XGBoost](http://bit.ly/37DalIS)**
 
+* **[Demand Forecast For a Wine Business (PT-BR)](https://github.com/rafaelnduarte/Demand_Forecast_Wine_Business/blob/main/README.md)
 
-Banking and Finances
-
-* **[Credit Card Fraud Identification with Logistic Regression](http://bit.ly/39Fqb7m)**
- 
-* **[Credit Card Default Prediction](http://bit.ly/2vDveXp)**
 
 Medicine and Healthcare
 
