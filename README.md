@@ -20,34 +20,34 @@ All in all, I believe my greatest asset is not being extremely technical. I'm a 
 
 
 ## Projects:
+
+Business
+
+* **[Demand Forecast For a Wine Business](https://github.com/rafaelnduarte/Demand_Forecast_Wine_Business/blob/main/README.md)**
+
+* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
+
+* **[Turnover Reduction with Machine Learning - HR (EN)](http://bit.ly/3caYK7t)**
+
+* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
+ 
+* **[Understanding Your Customers With NLP](https://bit.ly/2XE4emg)**
+ 
+* **[K-Means Clustering Using Spotify Data](http://bit.ly/2T0crxq)**
+
+* **[Twitter Sentiment Analysis](https://bit.ly/2XaRpie)**
+ 
+* **[Airbnb Data Analysis and Listing Price Prediction With XGBoost](http://bit.ly/2SyBTuT)**
+ 
+* **[Kaggle House Price Prediction - XGBoost](http://bit.ly/37DalIS)**
+
+* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
+
 Banking and Finances
 
 * **[Credit Card Fraud Identification with Logistic Regression](http://bit.ly/39Fqb7m)**
  
 * **[Credit Card Default Prediction](https://github.com/rafaelnduarte/Credit_Card_Default_Prediction)**
-
-
-Business
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
-
-* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
- 
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
- 
-* **[Understanding Your Customers With NLP](https://bit.ly/2XE4emg)**
- 
-* **[K-Means Clustering Using Spotify Data](http://bit.ly/2T0crxq)**
- 
-* **[Airbnb Data Analysis and Listing Price Prediction With XGBoost](http://bit.ly/2SyBTuT)**
- 
-* **[Turnover Reduction with Machine Learning - HR (EN)](http://bit.ly/3caYK7t)**
- 
-* **[Twitter Sentiment Analysis](https://bit.ly/2XaRpie)**
- 
-* **[Kaggle House Price Prediction - XGBoost](http://bit.ly/37DalIS)**
-
-* **[Demand Forecast For a Wine Business](https://github.com/rafaelnduarte/Demand_Forecast_Wine_Business/blob/main/README.md)**
-
 
 Medicine and Healthcare
 
