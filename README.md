@@ -46,7 +46,7 @@ Business
  
 * **[Kaggle House Price Prediction - XGBoost](http://bit.ly/37DalIS)**
 
-* **[Demand Forecast For a Wine Business (PT-BR)](https://github.com/rafaelnduarte/Demand_Forecast_Wine_Business/blob/main/README.md)**
+* **[Demand Forecast For a Wine Business](https://github.com/rafaelnduarte/Demand_Forecast_Wine_Business/blob/main/README.md)**
 
 
 Medicine and Healthcare
