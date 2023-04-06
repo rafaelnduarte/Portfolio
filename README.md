@@ -4,11 +4,11 @@
   <img src="rafaelnd_banner.png" width=70% >
 </p>
 
-## Data Scientist and Collaborator at Sigmoidal.ai
+## Data Scientist | Marketing Anlytics at Sigmoidal.ai
 
-Having been working as a Data Scientist since 2019, I've been fortunate enough to tackle exciting projects. At Sigmoidal, we have helped over 3.000 people learn Python and Data Science, which has opened several opportunities for them in some of the largest companies around the world, such as IBM, Boeing, Farfetch, as well as Brazilian behemoths such as NuBank, Itaú, Sympla, among others.
+Data Scientist with expertise in marketing analytics, specializing in data analysis, statistical modeling, and digital marketing platforms. Proficient in Python, R, SQL, and Tableau with experience in customer segmentation, A/B testing, attribution modeling, email marketing optimization, and customer journey analysis. Skilled in manipulating and analyzing large datasets, with a strong focus on data-driven decision-making. 
 
-We also work with consulting on Data Science, having delivered relevant projects to companies in diverse markets in Brazil and abroad. Most of them are confidential, but I've replicated some of the solutions, using public data to develop different projects for this portfolio. I'm currently updating these projects so that even my earliest works can reflect my current abilities.
+Excellent communicator and collaborator, able to work with cross-functional teams to present findings and make recommendations to improve marketing performance.Over the past 3 years, I have impacted the business, helping generate millions of dollars in revenue for the company. 
 
 All in all, I believe my greatest asset is not being extremely technical. I'm a businessman first and a programmer second, which means I understand the big picture and can see beyond the codes and algorithms, which helps translate technical work into real-life results.
 
