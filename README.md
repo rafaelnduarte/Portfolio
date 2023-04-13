@@ -21,7 +21,9 @@ All in all, I believe my greatest asset is not being extremely technical. I'm a 
 
 ## Projects:
 
-Business
+**Business**
+
+* **[A/B Testing Guidelines](https://github.com/rafaelnduarte/A-B_Testing-Experiment-Planning)**
 
 * **[Demand Forecast For a Wine Business](https://github.com/rafaelnduarte/Demand_Forecast_Wine_Business/blob/main/README.md)**
 
@@ -39,11 +41,9 @@ Business
  
 * **[Airbnb Data Analysis and Listing Price Prediction With XGBoost](http://bit.ly/2SyBTuT)**
  
-* **[Kaggle House Price Prediction - XGBoost](http://bit.ly/37DalIS)**
-
 * **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
 
-Banking and Finances
+**Banking and Finances**
 
 * **[Credit Card Fraud Identification with Logistic Regression](http://bit.ly/39Fqb7m)**
  
@@ -51,9 +51,9 @@ Banking and Finances
 
 Medicine and Healthcare
 
-* **[Heart Disease Identification with XGBoost](http://bit.ly/2SBOsWr)**
+* **[Heart Disease Prediction with XGBoost](http://bit.ly/2SBOsWr)**
 
-Sports
+**Sports**
 
 * **[NBB Data Analysis and Data Science Project Proposal (PT-BR)](http://bit.ly/3bQOhOD)**
 
