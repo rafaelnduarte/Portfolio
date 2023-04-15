@@ -8,7 +8,7 @@
 
 Data Scientist with expertise in marketing analytics, specializing in data analysis, statistical modeling, and digital marketing platforms. Proficient in Python, SQL, and Tableau with experience in customer segmentation, A/B testing, attribution modeling, email marketing optimization, and customer journey analysis. Skilled in manipulating and analyzing large datasets, with a strong focus on data-driven decision-making. 
 
-Excellent communicator and collaborator, able to work with cross-functional teams to present findings and make recommendations to improve marketing performance. Over the past 3 years, I have impacted the business, helping generate millions of dollars in revenue for the company. 
+Excellent communicator and collaborator, able to work with cross-functional teams to present findings and make recommendations to improve marketing performance. Over the past 4 years, I have impacted the business, helping generate millions of dollars in revenue for the company. 
 
 All in all, I believe my greatest asset is not being extremely technical. I'm a businessman first and a programmer second, which means I understand the big picture and can see beyond the codes and algorithms, which helps translate technical work into real-life results.
 
