@@ -25,6 +25,8 @@ All in all, I believe my greatest asset is not being extremely technical. I'm a 
 
 * **[A/B Testing Guidelines](https://github.com/rafaelnduarte/A-B_Testing-Experiment-Planning)**
 
+* **[Lead Scoring](https://github.com/rafaelnduarte/Lead_Scoring)**
+
 * **[Churn Prediction](https://github.com/rafaelnduarte/Churn_Prediction)**
 
 * **[Demand Forecast For a Wine Business](https://github.com/rafaelnduarte/Demand_Forecast_Wine_Business/blob/main/README.md)**
