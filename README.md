@@ -31,9 +31,9 @@ All in all, I believe my greatest asset is not being extremely technical. I'm a 
 
 * **[Demand Forecast For a Wine Business](https://github.com/rafaelnduarte/Demand_Forecast_Wine_Business/blob/main/README.md)**
 
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
+* **[RFM Customer Segmentation](https://bit.ly/2RFTWi2)**
 
-* **[Turnover Reduction with Machine Learning - HR (EN)](http://bit.ly/3caYK7t)**
+* **[Turnover Reduction with Machine Learning](http://bit.ly/3caYK7t)**
 
 * **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
  
@@ -41,25 +41,17 @@ All in all, I believe my greatest asset is not being extremely technical. I'm a 
  
 * **[K-Means Clustering Using Spotify Data](http://bit.ly/2T0crxq)**
 
-* **[Twitter Sentiment Analysis](https://bit.ly/2XaRpie)**
+* **[Twitter Sentiment Analysis - NLP](https://bit.ly/2XaRpie)**
  
-* **[Airbnb Data Analysis and Listing Price Prediction With XGBoost](http://bit.ly/2SyBTuT)**
- 
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
+* **[Airbnb Data Analysis and Listing Price Prediction](http://bit.ly/2SyBTuT)**
+
 
 **Banking and Finances**
 
-* **[Credit Card Fraud Identification with Logistic Regression](http://bit.ly/39Fqb7m)**
+* **[Credit Card Fraud Identification](http://bit.ly/39Fqb7m)**
  
-* **[Credit Card Default Prediction](https://github.com/rafaelnduarte/Credit_Card_Default_Prediction)**
+* **[Credit Card Default Prediction - Credit Risk Analysis](https://github.com/rafaelnduarte/Credit_Card_Default_Prediction)**
 
-Medicine and Healthcare
-
-* **[Heart Disease Prediction with XGBoost](http://bit.ly/2SBOsWr)**
-
-**Sports**
-
-* **[NBB Data Analysis and Data Science Project Proposal (PT-BR)](http://bit.ly/3bQOhOD)**
 
 ---
 
