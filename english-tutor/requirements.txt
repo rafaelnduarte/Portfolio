@@ -1,0 +1,13 @@
+# Core (pronunciation engine + teacher brain)
+anthropic>=2.11
+phonemizer>=3.3      # needs the espeak-ng system package
+numpy
+soundfile
+# Teacher voice (open source, downloads from GitHub)
+kokoro-onnx>=0.4
+# Listening (open source, downloads from Hugging Face)
+transformers>=4.40
+torch
+faster-whisper>=1.0
+# Dev
+pytest

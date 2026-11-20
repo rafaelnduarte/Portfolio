@@ -1,0 +1,54 @@
+{
+  "units": [
+    {
+      "id": "u1",
+      "title": "Talking about yourself",
+      "level": "A1-A2",
+      "goal": "Introduce yourself: name, work, where you live, what you like.",
+      "grammar": "Present simple with I / he / she (I work, she works).",
+      "target_phrases": ["I work as...", "I live in...", "I'm into...", "What about you?"],
+      "pronunciation_focus": ["final -s in he works / she lives", "th in think / the"],
+      "practice_sentences": ["She lives in a big city.", "I think he works in sales.", "My brother likes the beach."]
+    },
+    {
+      "id": "u2",
+      "title": "What did you do?",
+      "level": "A2",
+      "goal": "Talk about last weekend or a past experience.",
+      "grammar": "Past simple, regular and common irregular verbs.",
+      "target_phrases": ["Last weekend I...", "It was...", "Then we...", "How was yours?"],
+      "pronunciation_focus": ["-ed endings: worked (t), played (d), wanted (id)"],
+      "practice_sentences": ["I worked late and watched a movie.", "We talked and laughed a lot.", "She wanted to visit her parents."]
+    },
+    {
+      "id": "u3",
+      "title": "Daily routine and work",
+      "level": "A2-B1",
+      "goal": "Describe your day and your job.",
+      "grammar": "Adverbs of frequency, present simple vs. present continuous.",
+      "target_phrases": ["I usually...", "These days I'm working on...", "It depends on..."],
+      "pronunciation_focus": ["no extra vowel at the end: big, work, job", "s-clusters: start, study, school"],
+      "practice_sentences": ["I usually start work at nine.", "I'm studying English at school.", "My job is a big part of my life."]
+    },
+    {
+      "id": "u4",
+      "title": "Plans and the future",
+      "level": "B1",
+      "goal": "Talk about plans, intentions and predictions.",
+      "grammar": "going to, will, present continuous for arrangements.",
+      "target_phrases": ["I'm going to...", "I'll probably...", "I'm meeting... on Friday."],
+      "pronunciation_focus": ["English r: really, right, around", "ship vs. sheep vowels"],
+      "practice_sentences": ["I'm really going to read more this year.", "We'll leave the city in the right season.", "Right after the meeting I'm going to sleep."]
+    },
+    {
+      "id": "u5",
+      "title": "Opinions and comparisons",
+      "level": "B1-B2",
+      "goal": "Give and defend opinions, compare options.",
+      "grammar": "Comparatives and superlatives, I think / In my opinion, because / although.",
+      "target_phrases": ["In my opinion...", "That's a good point, but...", "It's better than..."],
+      "pronunciation_focus": ["cat vs. bet vowels: bad, bed, man, men", "final l: feel, people, hospital"],
+      "practice_sentences": ["I feel that bad habits are hard to change.", "People say the hospital is better than the old one.", "That man has a really good plan."]
+    }
+  ]
+}

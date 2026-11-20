@@ -1,0 +1,5 @@
+models/
+data/students/*.json
+__pycache__/
+.pytest_cache/
+*.wav
